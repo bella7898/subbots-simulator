@@ -1,4 +1,5 @@
 from common_types import *
+import numpy as np
 
 hydrophone_positions = [
     CylindricalPosition(0, 0, 0),
